@@ -1,0 +1,3 @@
+﻿  c++.cpp
+D:\LAB8.1 char\Project1\c++.cpp(24,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Project1.vcxproj -> D:\LAB8.1 char\Project1\x64\Debug\Project1.exe
